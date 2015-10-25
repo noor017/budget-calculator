@@ -1,0 +1,1 @@
+This compact program will allow users to enter in their financial information, such as income, bills, debt, etc, and allow them to create an easy to use, interactive budget calculator.
